@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-bug-report",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "2.1.2",
+    "eslint": "^8.55.0"
+  }
+}
